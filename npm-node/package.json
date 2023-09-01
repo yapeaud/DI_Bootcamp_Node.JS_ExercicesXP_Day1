@@ -1,0 +1,11 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "Bonjour Node",
+  "main": "main.js",
+  "scripts": {
+    "start": "Salut ! Comment vas-tu ?"
+  },
+  "author": "Yapeaud",
+  "license": "ISC"
+}
